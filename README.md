@@ -1,5 +1,5 @@
 # multi-container-pod
-#2conatainer-pod-sharedvolume
+#2container-pod-sharedvolume
 create the pod:
 kubectl apply -f 2conatainer-pod-sharedvolume.yml
 
